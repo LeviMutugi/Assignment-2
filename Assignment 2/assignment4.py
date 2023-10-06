@@ -1,3 +1,6 @@
+#SCT211-0067/2022
+#LEVI MUTUGI MUTHARIMI
+
 year = int(input("Enter the year you want to check: "))
 
 if (year % 100 == 0) and (year % 400==0):
