@@ -1,3 +1,6 @@
+#SCT211-0067/2022
+#LEVI MUTUGI MUTHARIMI
+
 weight= round(float(input("Enter your weight in kg: ")),2)
 height= round(float(input("Enter your height in meters: ")),2)
 bmiHeight= height * height
