@@ -1,3 +1,6 @@
+#SCT211-0067/2022
+#LEVI MUTUGI MUTHARIMI
+
 totalBillAmount= int(input("Enter the total bill : "))
 print("The following are the avalable tip options: \n 1. 10% \n 2. 12% \n 3. 15%\n")
 option = int(input("Please enter your prefered option: "))
