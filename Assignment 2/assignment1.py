@@ -1,3 +1,6 @@
+#SCT211-0067/2022
+#LEVI MUTUGI MUTHARIMI
+
 yearOfBirth = int(input("Enter your year of birth here: "))
 currentYear = 2023 
 ageInYears = currentYear - yearOfBirth
